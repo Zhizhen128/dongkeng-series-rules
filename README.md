@@ -1,11 +1,10 @@
 # 2026 DongKeng Poker Series Event #35
 
-**¥40 NLH Mystery Bounty**  
-**7-Handed**
+**¥40 NLH Mystery Bounty 7-Handed**
 
 ## 开赛与 check-in
 英国时间 14:00／国内时间 21:00／洛杉矶时间 06:00 准时开始。请在英国 13:55／国内 20:55／洛杉矶 05:55 之前完成 check-in。check-in 开始时间为英国 13:35／国内 20:35／洛杉矶 05:35。
-https://www.pokernow.club/mtt/dongkeng-series-28-6_IDKb3OlO
+https://www.pokernow.com/mtt/dongkeng-series-35-hNTKQaAN25
 
 ## 盲注结构与 rebuy
 大家可以在 structure 栏查看盲注结构。结构有所改动，升盲速度减慢了：每人起始筹码 2000，blind level 1 为 5/10（200bb）。
